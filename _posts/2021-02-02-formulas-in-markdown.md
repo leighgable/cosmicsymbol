@@ -8,3 +8,8 @@ I need to write formulas in markdown. I don't want to deal with LaTex if I don't
 
 $\lim$
 $\exp$
+
+or
+
+\lim
+\exp
